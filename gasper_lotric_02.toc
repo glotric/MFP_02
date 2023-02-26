@@ -1,0 +1,6 @@
+\babel@toc {slovene}{}
+\contentsline {section}{\numberline {1}Uvod}{2}%
+\contentsline {section}{\numberline {2}Naloga}{3}%
+\contentsline {section}{\numberline {3}Poleti in sprehodi}{4}%
+\contentsline {section}{\numberline {4}Vzporedni eksperimenti}{7}%
+\contentsline {section}{\numberline {5}Zaključek}{9}%
